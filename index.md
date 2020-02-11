@@ -1,3 +1,3 @@
 ## Blog
 
-Hello,I just want to see what will happen when I create the github page.^_^
+简单的见闻
