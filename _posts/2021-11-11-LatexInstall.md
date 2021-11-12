@@ -16,12 +16,12 @@
 https://blog.csdn.net/weixin_39059031/article/details/102978653
 
 按好以后，配置好相应的环境变量,里边这些环境变量最好都配置有，随后环境的安装就算完成了。
-![](../images/CTex_path.jpg)
+![](/images/CTex_path.jpg)
 
 ## 使用
 
 1. 打开Vscode，在.vscode文件夹中新建.settings.json文件。
-![](../images/CTex_setting.jpg)
+![](/images/CTex_setting.jpg)
 
 2. 随后在settings.json文件加入以下文本:
 ___
