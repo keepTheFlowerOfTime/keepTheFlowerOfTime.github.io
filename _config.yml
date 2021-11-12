@@ -7,7 +7,8 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: 时浪花的Blog
-description: 简单的人做简单的事
+SEOTitle: 时浪花的Blog
+description: 时浪花刚刚搭好的个人Blog
 github_username: keepTheFlowerOfTime
 
 # Email and twitter are optional:
